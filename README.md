@@ -20,3 +20,29 @@ Functional javascript, data structures &amp; algorithms
     - Recursion inside recursion
 - Excessive Recursion
   - memoization - storing the results when excessive recursion
+- Array Data Structures - ADT
+  - Data: array space, size, length
+  - Operations: display, add, append, delete, search, get, set, max, reverse, shift, rotate
+  - Linear search
+    - transposition - element found move it 1 step forward
+    - move to front/head -
+  - ## Binary search - need to be sorted
+- Lists
+  - List ADT
+    listSize
+    pos
+    length
+    clear
+    toString
+    getElement
+    insert
+    append
+    remove
+    front
+    end
+    previous
+    next
+    hasPrevious
+    hasNext
+    currPos
+    moveTo
